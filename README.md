@@ -1,5 +1,9 @@
 # TwitterData
 
+The dataset that I wrangled (and analyzed and visualized) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog, and it has over 4 million followers.
+Using Python and its libraries, I gathered data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. I also analyzed and visualized the cleaned data using Python.
+
+
 The tasks in this project are as follows:
 
 ## Gathering data
