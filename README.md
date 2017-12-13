@@ -16,5 +16,5 @@ Clean each of the issues I detected above. Perform this cleaning in wrangle_act.
 ## Analyzing and visualizing data
 Use numpy and matplotlib to analyze and visualize the wrangled data in the wrangle_act.ipynb.The analysis and insights into final data can also be read in the act_report.pdf, which also displays the visualizations produced from the wrangled data. 
 
-[Link to the PDF report](/https://github.com/EntingHsiao/TwitterData/blob/master/act_report.pdf)
+[Link to the PDF report](https://github.com/EntingHsiao/TwitterData/blob/master/act_report.pdf)
 
